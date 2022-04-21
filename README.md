@@ -6,7 +6,7 @@
 
 ## 👋 Hi there! Welcome to my GitHub 🙇‍♀️
 
-- 🌱 I'm a junior web & machine learning developer.
+- 🌱 I'm a junior web developer & data engineer.
 - :open_file_folder: I used to like organizing by myself, but now I want to record it and get some feedback.
 - 📚 I recently learned machine learning, deep learning, and Django web implementation at the 2nd LIKELION KDT AI School.
 - 📈 I'm currently organizing the project and analyzing the techs I used.
