@@ -6,10 +6,19 @@
 
 ## 👋 Hi there! Welcome to my GitHub 🙇‍♀️
 
-- 🌱 I'm a junior web back-end developer.
-- :open_file_folder: I used to like organizing by myself, but now I want to record it and get some feedback.
-- 📚 I recently learned and reviewed Django web implementation, Django REST Framework and some other process at the 2nd Wanted Pre-Onboarding.
-- 📈 I'm currently organizing the project and analyzing the techs I used.
+- 🌱 안녕하세요! 주니어 웹 백엔드 개발자 강정희입니다.
+- :open_file_folder: 그동안 정리했던 것을 꾸준히 기록하고 피드백 받기 위해 노력하고 있습니다.
+- :pushpin: 코드 구현과 프로세스를 효율적으로 개선하는 것에 관심이 많습니다.
+- 📚 최근 Wanted Pre-Onboarding에 참여하면서 Python 기반 REST API 설계 및 구현 프로젝트를 진행했습니다.
+- 📈 현재 개인 프로젝트와 기술 분석을 통해 심도 있는 개발 경험을 쌓으려 노력하고 있습니다.
+
+<br/>
+
+- 🌱 Hello! I'm a junior web back-end developer.
+- :open_file_folder: I'm trying to record steadily what I've been organizing by myself and get feedback.
+- :pushpin: I'm interested in improving code implementation and the process efficiently.
+- 📚 I recently learned and worked on projects to implement Django REST API at the 2nd Wanted Pre-Onboarding.
+- 📈 I'm currently trying to gain in-depth development experience by working on personal projects and analyzing the techs I used.
 
 <br/>
 
@@ -17,26 +26,17 @@
 
 <div align = "center">
 
-  ### Techs that I've used at least once and interested in
+  ### Techs that I've used and interested in
 
   #### ▶ Dev
   <div>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Django REST Framework-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Jsp/Servlet-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Django REST Framework-092E20?style=flat-square&logo=Django&logoColor=white"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
   </div>
   <div>
-    <img src="https://img.shields.io/badge/Scikit learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=Gunicorn&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=Gunicorn&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
   </div>
 
   #### ▶ Non-Dev
